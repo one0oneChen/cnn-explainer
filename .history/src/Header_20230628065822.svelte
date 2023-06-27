@@ -75,7 +75,7 @@
 
 			<g filter="url(#chalk-texture)" transform="translate(0, 35)">
 				<text id="svg-logo-tagline">
-					在你的浏览器学习卷积神经网络(CNN)!
+					Learn Convolutional Neural Network (CNN) in your browser! 在你的浏览器学习卷积神经网络(CNN)
 				</text>
 			</g>
 		</svg>
